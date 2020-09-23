@@ -1,0 +1,11 @@
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\bin\Debug\FirstShotAtThis.exe.config
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\bin\Debug\FirstShotAtThis.exe
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\bin\Debug\FirstShotAtThis.pdb
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.csprojAssemblyReference.cache
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.Properties.Resources.resources
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.csproj.GenerateResource.cache
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.csproj.CoreCompileInputs.cache
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.exe
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.pdb
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.Form1.resources
+M:\IndStudy\repos\FirstShotAtThis\FirstShotAtThis\obj\Debug\FirstShotAtThis.GraphMyStars.resources
