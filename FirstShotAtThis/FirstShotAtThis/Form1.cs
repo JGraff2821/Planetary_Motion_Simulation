@@ -46,22 +46,6 @@ namespace FirstShotAtThis
             e.Graphics.DrawRectangle(blackPen, x, y, width, height);
         }
 
-      
-        //private void drawFlowLines(object sender, PaintEventArgs e)
-        //{
-        //        // Create pen.
-        //        Pen blackPen = new Pen(Color.Black, 3);
-
-        //        // Create location and size of rectangle.
-        //        int x = 50;
-        //        int y = 50;
-        //        int width = 1;
-        //        int height = 1;
-
-        //        // Draw rectangle to screen.
-        //        e.Graphics.DrawRectangle(blackPen, x, y, width, height);
-            
-        //}
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -98,6 +82,11 @@ namespace FirstShotAtThis
             starGraphX.Clear();
             starGraphY.Clear();
             starMass.Clear();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void label3_Click(object sender, EventArgs e)

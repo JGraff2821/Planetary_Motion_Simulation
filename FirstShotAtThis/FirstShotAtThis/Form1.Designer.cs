@@ -38,6 +38,7 @@
             this.starGraphY = new System.Windows.Forms.TextBox();
             this.starGraphX = new System.Windows.Forms.TextBox();
             this.addStar = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -131,12 +132,23 @@
             this.addStar.UseVisualStyleBackColor = true;
             this.addStar.Click += new System.EventHandler(this.addStar_Click);
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(36, 77);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(86, 13);
+            this.label6.TabIndex = 11;
+            this.label6.Text = "Input Data Here:";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.addStar);
             this.Controls.Add(this.starGraphX);
             this.Controls.Add(this.starGraphY);
@@ -148,7 +160,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Welcome to my Gravitational Motion Model!";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -167,6 +179,7 @@
         private System.Windows.Forms.TextBox starGraphY;
         private System.Windows.Forms.TextBox starGraphX;
         private System.Windows.Forms.Button addStar;
+        private System.Windows.Forms.Label label6;
     }
 }
 
